@@ -1,6 +1,6 @@
 
 <table>
-  <tr><th></th><th></th><th></th></tr>
+ 
   <tr>
     <td>
 <img width="384" alt="Screenshot 2023-06-05 at 11 27 05" src="https://github.com/a222112000/JetPackCRUD/assets/26028054/e79aa051-18f4-421f-a7de-b926dadac5d5">
